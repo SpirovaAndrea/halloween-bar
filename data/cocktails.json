@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Vampire's Kiss",
+    "base": "vodka",
+    "mixers": ["cranberry", "lime"],
+    "emoji": "🧛",
+    "image": "/img/vampires-kiss.jpg",
+    "ingredients": ["50ml vodka", "100ml cranberry juice", "10ml lime juice", "Ice"],
+    "steps": ["Fill a glass with ice.", "Pour in the vodka and lime juice.", "Top with cranberry juice and stir."]
+  },
+  {
+    "name": "Zombie Mule",
+    "base": "vodka",
+    "mixers": ["ginger beer", "lime"],
+    "emoji": "🧟",
+    "image": "/img/zombie-mule.jpg",
+    "ingredients": ["50ml vodka", "120ml ginger beer", "Lime wedge", "Ice"],
+    "steps": ["Fill a glass with ice.", "Add the vodka.", "Top with ginger beer and squeeze in the lime."]
+  },
+  {
+    "name": "Witch's Brew",
+    "base": "gin",
+    "mixers": ["tonic", "lime"],
+    "emoji": "🧙",
+    "image": "/img/witchs-brew.jpg",
+    "ingredients": ["50ml gin", "150ml tonic water", "Lime wedge", "Ice"],
+    "steps": ["Fill a glass with ice.", "Add the gin.", "Top with tonic and garnish with lime."]
+  },
+  {
+    "name": "Ghost Fizz",
+    "base": "gin",
+    "mixers": ["soda water", "lime"],
+    "emoji": "👻",
+    "image": "/img/ghost-fizz.jpg",
+    "ingredients": ["50ml gin", "20ml lime juice", "100ml soda water", "Ice"],
+    "steps": ["Add gin and lime juice to a glass with ice.", "Top with soda water.", "Stir gently."]
+  },
+  {
+    "name": "Pumpkin Sunrise",
+    "base": "tequila",
+    "mixers": ["orange juice", "grenadine"],
+    "emoji": "🎃",
+    "image": "/img/pumpkin-sunrise.jpg",
+    "ingredients": ["50ml tequila", "120ml orange juice", "15ml grenadine", "Ice"],
+    "steps": ["Fill a glass with ice.", "Add tequila and orange juice.", "Slowly pour grenadine down the side so it sinks."]
+  },
+  {
+    "name": "Haunted Paloma",
+    "base": "tequila",
+    "mixers": ["grapefruit soda", "lime"],
+    "emoji": "💀",
+    "image": "/img/haunted-paloma.jpg",
+    "ingredients": ["50ml tequila", "10ml lime juice", "120ml grapefruit soda", "Ice"],
+    "steps": ["Fill a glass with ice.", "Add tequila and lime juice.", "Top with grapefruit soda."]
+  },
+  {
+    "name": "Dead Man's Cola",
+    "base": "rum",
+    "mixers": ["cola", "lime"],
+    "emoji": "☠️",
+    "image": "/img/dead-mans-cola.jpg",
+    "ingredients": ["50ml rum", "120ml cola", "Lime wedge", "Ice"],
+    "steps": ["Fill a glass with ice.", "Add the rum.", "Top with cola and squeeze in the lime."]
+  },
+  {
+    "name": "Poison Apple",
+    "base": "mocktail",
+    "mixers": ["apple juice", "ginger beer"],
+    "emoji": "🍏",
+    "image": "/img/poison-apple.jpg",
+    "ingredients": ["100ml apple juice", "80ml ginger beer", "Ice", "Apple slice"],
+    "steps": ["Fill a glass with ice.", "Add apple juice.", "Top with ginger beer and garnish with an apple slice."]
+  }
+]
